@@ -5,4 +5,4 @@
 * Run "npm start" to start the server .
 
 Or
-# [PLAY]() && Have fun
+#[PLAY](http://wardahmad.github.io/Snake-Game-React) && Have fun
