@@ -53,6 +53,8 @@ class App extends Component {
       case 39:
         this.setState({ direction: "RIGHT" });
         break;
+      default:
+        // code
     }
   };
 
@@ -72,6 +74,9 @@ class App extends Component {
       case "UP":
         head = [head[0], head[1] - 2];
         break;
+      default:
+        // code
+        
     }
     dots.push(head);
     dots.shift();
